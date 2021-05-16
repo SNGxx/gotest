@@ -1,2 +1,0 @@
-# gotest
-study go
