@@ -1,0 +1,2 @@
+# gotest
+study go
